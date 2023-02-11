@@ -1,0 +1,18 @@
+{
+    "PluginRepo": true,
+    "BDFDB": true,
+    "AutoScroll": true,
+    "UserTags": true,
+    "ReadAllNotificationsButton": true,
+    "UserVolumeBooster": false,
+    "ZeresPluginLibrary": true,
+    "CharCounter": true,
+    "GuildProfile": false,
+    "RoleMembers": true,
+    "ServerFolders": false,
+    "ProProfile": true,
+    "UserVoiceShow": true,
+    "BetterChatNames": true,
+    "RoleMentionIcons": true,
+    "VoiceActivity": true
+}
